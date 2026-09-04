@@ -1,0 +1,15 @@
+STOCK PORTFOLIO REPORT
+==================================================
+
+Stock: AAPL
+Quantity: 10
+Price per Share: Rs. 180.00
+Investment: Rs. 1,800.00
+----------------------------------------
+Stock: TSLA
+Quantity: 5
+Price per Share: Rs. 250.00
+Investment: Rs. 1,250.00
+----------------------------------------
+
+Total Investment: Rs. 3,050.00
